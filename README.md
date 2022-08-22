@@ -1,0 +1,2 @@
+# demodularizer
+module -> commonjs
